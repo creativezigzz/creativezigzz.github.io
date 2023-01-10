@@ -28,7 +28,7 @@
         
         
         
-          #!python3 def get_home() if salary &amp;gt;= 1000: pay_rent() else: run_fast() if name == &amp;#39;__main__&amp;#39;: get_home() That is how I got manage my new home rent with landlord 
+          #!python3 def get_home() if salary &amp;gt;= 1000: pay_rent() else: run_fast() if name == &amp;#39;__main__&amp;#39;: get_home() That is how I got manage my new home rent with landlord. 
           
         
         </description>
