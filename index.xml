@@ -9,10 +9,30 @@
     <description>Recent content on My Homeless Guy Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Jan 2023 01:27:26 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jan 2023 02:15:44 +0200</lastBuildDate>
     
 	<atom:link href="https://creativezigzz.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SecondHome</title>
+      <link>https://creativezigzz.github.io/posts/secondhome/</link>
+      <pubDate>Tue, 10 Jan 2023 02:15:44 +0200</pubDate>
+      
+      <guid>https://creativezigzz.github.io/posts/secondhome/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          #!python3 def get_home() if salary &amp;lt;= 1000: pay_rent() else: run_fast() if name == &amp;#39;__main__&amp;#39;: get_home() That is how I got manage my new home.
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>MyHome</title>
